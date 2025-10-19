@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /adminchronacobain
+
+# Block all crawlers from admin page
+User-agent: *
+Disallow: /adminchronacobain
+
+# Sitemap
+Sitemap: /sitemap.xml
